@@ -1,0 +1,5 @@
+numpy==1.16.0
+matplotlib
+seaborn
+gym
+jupyter
